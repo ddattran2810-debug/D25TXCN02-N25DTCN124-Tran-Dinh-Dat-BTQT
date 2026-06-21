@@ -1,3 +1,6 @@
+CREATE DATABASE Company_Management;
+USE CompanyManagement;
+
 CREATE TABLE departments(
    department_id INT PRIMARY KEY,
    department_name VARCHAR(50)
